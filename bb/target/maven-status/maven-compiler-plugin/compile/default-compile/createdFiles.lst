@@ -1,0 +1,15 @@
+view\admin.class
+view\login$2.class
+view\vende.class
+view\login$1.class
+view\inicio.class
+model\lista.class
+control\controlar.class
+view\admin$1.class
+com\mycompany\inventario\Inventario.class
+view\login.class
+view\vende$1.class
+view\cliente.class
+view\inicio$1.class
+view\clien$1.class
+view\clien.class
